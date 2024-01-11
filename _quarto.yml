@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "website golden visa"
+  title: "AM-INVEST"
   navbar:
     left:
       - href: index.qmd

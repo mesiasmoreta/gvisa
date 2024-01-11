@@ -1,18 +1,38 @@
 ---
-title: "About Me"
+title: "About Us"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/Pasaporte.png
 ---
 
 :::{#me}
 
-## Inversion
+## Your passport to tranquility.
 
-## Inmobiliary
+We offer you a business model that allows you to obtain the Spanish Golden Visa by investing in the real estate sector.
 
-## Advice
+We take care of finding investment opportunities, coordinate renovations, and manage the comprehensive rental of the property for you.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jbEO1ajmAWc?si=ksL3vkzA_BIeveF7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# Benefits of the Spanish Golden Visa"
+
+
+- Permission to live in Spain.
+
+- Authorization to work in Spain.
+
+- Freedom to travel within the Schengen territory.
+
+- Extension of rights and benefits to family members.
+
+- Access to public services.
+
+- Possibility of obtaining Spanish nationality after 10 years.
+
+
 
 :::
 
