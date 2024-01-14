@@ -1,30 +1,5 @@
 ---
-title: "Our innovative investment model"
+title: "Trabajos académicos"
 ---
-
-## We take care of everything
-
-![](img/CASA.jpg)
-
-
-## Turnkey investment
-
-![](img/LLEM.jpg)
-
-- We seek investment opportunities
-
-- Carry out and coordinate renovations
-
-- Manage the comprehensive rental of the property
-
-
-## We help you obtain the Golden Visa
-
-![](img/ABO.jpg)
-
-- We have experts to process the documents
-
-- Guidance in obtaining the entire family unit
-
-- Comprehensive service, both legal and fiscal
-
+Clima laboral. Caso entidades financieras en Ecuador.
+Evaluación de modelos aprendizaje automático para riesgo de crédito.
