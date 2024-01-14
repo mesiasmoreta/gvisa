@@ -7,8 +7,10 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Bienvenido
       - projects.qmd
+      - text: blog
+        href: blog.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/
@@ -20,7 +22,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: minty
     toc: true
 
 editor: source

@@ -1,5 +1,5 @@
 ---
-title: "Trabajos académicos"
+title: "Documentos académicos"
 ---
 Clima laboral. Caso entidades financieras en Ecuador.
 Evaluación de modelos aprendizaje automático para riesgo de crédito.

@@ -1,127 +1,45 @@
 ---
-title: "Sobre mi"
+title: "¿QUIÉN SOY?"
 about:
   id: me
   template: broadside
-  image: img/carnet.jpg
+  image: img/angel.jpg
 ---
 
 :::{#me}
-Me apasiona ayudar a que las personas consigan la hipoteca adecuada y puedan gozar de la tranquilidad de vivir en su casa propia.
+
+Ayudo a que las personas consigan la hipoteca adecuada y puedan gozar de la tranquilidad de vivir en su casa propia.
  
 Busco soluciones personalizadas para que mis clientes aprovechen el dinero de su trabajo, consigan la mejor vivienda que está a su alcance y cumplan sus objetivos personales, manteniendo un estilo de vida exitoso fruto de la excelente administración de sus finanzas.
 
+# CERTIFICACIONES
 
-# EXPERIENCIA LABORAL
+- Asesor financiero en crédito hipotecario
+- Estadística descriptiva en RStudio
+- Machine learning con RStudio
+- Introducción al mundo del Business Intelligence
+- Bases de datos: lenguaje SQL
 
-## Agente inmobiliario
+# EXPERIENCIA
 
-[ 22/02/2021 – 30/06/2021 ]
-RTG Inmobiliaria
-Población: Valencia
-País: España
-Captación de inmuebles para publicación y venta en el portal web de la inmobiliaria.
-Mostrar los inmuebles a los clientes interesados.
-Elaboración de Contrato de Arras para formalizar la compra del inmueble.
+- Analista de riesgo en cobranza
+- Agente inmobiliario
+- Analista de riesgo en Pymes
+- Empleado bancario
 
-## Analista de riesgo de crédito en microempresas
+# FORMACIÓN
+ 
+- Tesis doctoral sobre riesgo de crédito (Proceso)
+- Máster en análisis de datos mejora de procesos y toma de decisiones
+- Máster en administración de empresas (MBA)
+- Ingeniero Agr.
 
-[ 04/06/2010 – 12/09/2018 ]
-Cooperativa de Ahorro y Crédito San Francisco Limitada
-Población: Ambato
-País: Ecuador
-Análisis de estados financieros de Pymes para concesión de créditos.
-Recuperación de cartera en riesgo de impago.
-
-##  Analista de riesgo de crédito
-
-[ 01/10/2009 – 01/06/2010 ]
-Banco Solidario Ecuador
-País: Ecuador
-Asesoría de productos y servicios financieros a PYMES y particulares.
-Análisis de estados financieros, reporte de información a jefaturas de las diferentes
-departamentos de la organización.
-
-##  Empleado bancario
-
-[ 04/10/2007 – 29/09/2009 ]
-Banco Procredit
-País: Ecuador
-Atención personalizada a clientes, gestión documental para créditos.
-Levantamiento de información de Pymes y particulares en negocio y domicilio para
-entrega de productos y servicios financieros.
-
-# EDUCACIÓN Y FORMACIÓN
-
-## PhD student (Tesis doctoral en proceso)
-
-#  Máster en Ingeniería de Análisis de Datos, Mejora de Procesos y Toma de Decisiones
-
-[ 15/09/2018 – 20/07/2022 ]
-Universidad Politécnica de Valencia http://www.upv.es/en
-Dirección: España
-Campo(s) de estudio: Ciencias naturales, matemáticas y estadística: Estadística
-Número de créditos: 60
-Tesis: Desarrollo y evaluación de modelos de minería de datos para la gestión del riesgo
-de crédito
-Enlace: http://hdl.handle.net/10251/186604
-
-##  Máster en Administración de Empresas (MBA)
-
-[ 04/01/2014 – 27/07/2018 ]
-Universidad Católica del Ecuador https://www.pucesa.edu.ec/
-Dirección: Ecuador
-Campo(s) de estudio: Administración de empresas y derecho: Gestión financiera,
-administración bancaria y seguros
-Calificación final: Mención de honor y mejor egresado de la promoción
-Número de créditos: 60
-Tesis: Plan de mejora del clima laboral en una institución financiera
-El MBA desarrollado concluyó con el estudio de la gestión del talento humano, se generó
-un análisis y evaluación del clima laboral de una institución financiera que tuvo el
-reconocimiento académico y se presentó en un congreso internacional.
-
-##  Ingeniero Agrónomo
-
-[ 01/10/2003 – 29/01/2009 ]
-Universidad Técnica de Ambato https://www.uta.edu.ec/v4.0/index.php/serviciosweb
-Dirección: Ecuador
-Campo(s) de estudio: Administración de empresas de producción agropecuarias
-COMPETENCIAS DE
-IDIOMAS
-Lengua(s) materna(s): castellano
-Inglés B1 
-
-#COMPETENCIAS DIGITALES
-
-Lenguaje de programación R: Machine learning, Estadística, Reportes de comunicación científica, Creación de páginas web, dashboards, 
-Python (intermedio)
-MySQL Workbench 
-Microsoft Office
 
 # PREMIOS Y DISTINCIONES
 
-##  Matrícula de Honor (Mención Especial) Institución que otorga el premio
-
-[ 20/07/2022 ]
-Universidad Politécnica de Valencia
-Matrícula de Honor de Honor por el Trabajo Fin de Máster: Desarrollo y evaluación de
-modelos de minería de datos para la gestión del riesgo de microcrédito
-
-## Mención de honor al Trabajo de Grado Institución que otorga el premio
-
-[ 06/06/2019 ]
-Pontificia Universidad Católica del Ecuador
-Reconocimiento por el trabajo: "Medición del clima laboral caso: Cooperativas de Ahorro
-y Crédito de la ciudad de Ambato "
-
-## Grado con Honores Svmma Cvm Lavde 
-
-[ 06/06/2019 ]
-
-Institución que otorga el premio:Pontificia Universidad Católica del Ecuador
-En atención al excelente desempeño académico durante los estudios de posgrado en la Maestría en Administración de Empresas Mención Planeación
-
-
+- Mención especial por el trabajo fin de máster: "Desarrollo y evaluación de modelos de minería de datos para la gestión del riesgo de microcrédito"
+- Mención de honor al trabajo fin de máster: "Medición del clima laboral: Caso Cooperativas de Ahorro y Crédito"
+- Grado con honores Svmma Cvm Lavde otorgado por la Pontificia Universidad Católica del Ecuador.
 
 
 :::
