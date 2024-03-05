@@ -3,11 +3,11 @@ project:
   output-dir: docs
   
 website:
-  title: "Angel Moreta"
+  title: "Golden Visa Española"
   navbar:
     left:
       - href: index.qmd
-        text: Bienvenido
+        text: ¡Bienvenido!
       - projects.qmd
       - text: blog
         href: blog.qmd

@@ -1,5 +1,11 @@
 ---
-title: "Documentos académicos"
+title: "Inversión"
 ---
-Clima laboral. Caso entidades financieras en Ecuador.
-Evaluación de modelos aprendizaje automático para riesgo de crédito.
+
+El modelo de inversión consta de cinco partes:
+
+1.  Selección del inmueble
+2.  Compra
+3.  Remodelación
+4.  Alquiler
+5.  Seguimiento
