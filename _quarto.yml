@@ -22,7 +22,7 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: blue
     toc: true
 
 editor: source

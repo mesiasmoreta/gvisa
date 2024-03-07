@@ -3,7 +3,7 @@ title: "TU PASAPORTE A LA TRANQUILIDAD"
 about:
   id: me
   template: broadside
-  image: pasaporte.png
+  image: pasaporte.png.png
 editor: 
   markdown: 
     wrap: 72
