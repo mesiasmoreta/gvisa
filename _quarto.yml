@@ -6,23 +6,30 @@ website:
   title: "Golden Visa Española"
   navbar:
     left:
-      - href: index.qmd
-        text: ¡Bienvenido!
-      - projects.qmd
+      - text: ¡bienvenido!
+        href: index.qmd
+      - text: beneficios
+        href: projects.qmd
+      - text: pasaporte
+        href: pasaporte.qmd
+      - text: inversión
+        href: inversión.qmd
+      - text: contacto
+        href: contacto.qmd
       - text: blog
         href: blog.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
-      - icon: github
-        href: https://github.com/mesiasmoreta/gvisa
+      - icon: linkedin
+        href: https://linkedin.com/in/ángel-moreta-yánez-mba-msc-38aa898b
+      - icon: instagram
+        href: https://www.instagram.com/mesias_moreta/
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, Angel Moreta"
+    left: "&copy; Copyright 2024, Angel Moreta"
 
 format:
   html:
-    theme: blue
+    theme: red
     toc: true
 
 editor: source
