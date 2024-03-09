@@ -4,6 +4,19 @@ project:
   
 website:
   title: "Golden Visa Española"
+  favicon: pasaporte.png.png #opcion para enlacs dentro de redes sociales
+  image: pasaporte.png.png #opcion para enlacs dentro de redes sociales
+  twitter-card: true #opcion para enlacs dentro de twitter
+  open-graph: true
+  
+  cookie-consent:
+    type: express
+    style: headline
+    palette: dark
+  google-analytics:
+    tracking-id: "G-XXXXXXX"
+    anonymize-ip: true
+    
   navbar:
     left:
       - text: ¡bienvenido!
