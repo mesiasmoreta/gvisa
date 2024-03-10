@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+
+
   
 website:
   title: "Golden Visa Española"
@@ -21,7 +23,7 @@ website:
     
   navbar:
     left:
-      - text: ¡bienvenido!
+      - text: bienvenido
         href: index.qmd
       - text: beneficios
         href: projects.qmd
@@ -44,7 +46,9 @@ website:
 
 format:
   html:
-    theme: red
+    theme:
+        light: flatly
+        dark: darkly
     toc: true
 
 editor: source
