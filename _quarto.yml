@@ -60,7 +60,7 @@ website:
     
 format:
   html:
-    theme: journal
+    theme: spacelab
     toc: false
 
 editor: source
