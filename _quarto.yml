@@ -60,7 +60,7 @@ website:
     
 format:
   html:
-    theme: morph 
+    theme: journal
     toc: false
 
 editor: source
