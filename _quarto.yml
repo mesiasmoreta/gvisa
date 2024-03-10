@@ -11,9 +11,10 @@ website:
   open-graph: true
   
   cookie-consent:
-    type: express
-    style: headline
-    palette: dark
+    type: implied
+    style: interstitial
+    palette: light
+    language: spanish
   google-analytics:
     tracking-id: "G-YLKB5451TC" #primero crear la cta de google analiticas 
     anonymize-ip: true
