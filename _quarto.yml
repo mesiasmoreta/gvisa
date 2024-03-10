@@ -24,7 +24,7 @@ website:
     logo: pasaporte.png.png
     
     left:
-      - text: bienvenido
+      - text: Golden Visa
         href: index.qmd
       - text: beneficios
         href: projects.qmd
