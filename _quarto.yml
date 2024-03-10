@@ -60,9 +60,7 @@ website:
     
 format:
   html:
-    theme:    
-      light: cosmo
-      dark: [cosmo, theme-dark.scss]
+    theme: spacelab  
     toc: true
 
 editor: source
