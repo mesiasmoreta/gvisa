@@ -2,7 +2,7 @@
 title: "TU PASAPORTE A LA TRANQUILIDAD"
 about:
   id: me
-  template: trestles
+  template: marquee
 
 editor: 
   markdown: 
