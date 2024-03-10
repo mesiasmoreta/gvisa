@@ -5,7 +5,8 @@ project:
 
   
 website:
-  title: "Golden Visa Española"
+  
+  title: ""
   
   favicon: pasaporte.png.png #opcion para enlacs dentro de redes sociales
   image: pasaporte.png.png #opcion para enlacs dentro de redes sociales
@@ -22,6 +23,8 @@ website:
     anonymize-ip: true
     
   navbar:
+    logo: pasaporte.png.png
+    
     left:
       - text: bienvenido
         href: index.qmd
@@ -40,15 +43,28 @@ website:
         href: https://linkedin.com/in/ángel-moreta-yánez-mba-msc-38aa898b
       - icon: instagram
         href: https://www.instagram.com/mesias_moreta/
+  
   page-footer:
+  
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2024, Angel Moreta"
 
+    center: 
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.qmd
+      - text: "Trademark"
+        href: trademark.qmd
+    border: false
+    background: dark
+    foreground: white
+    
 format:
   html:
-    theme:
-        light: flatly
-        dark: darkly
+    theme:    
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
     toc: true
 
 editor: source
