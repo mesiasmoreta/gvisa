@@ -2,8 +2,6 @@ project:
   type: website
   output-dir: docs
 
-
-  
 website:
   
   title: ""
@@ -56,9 +54,9 @@ website:
         href: license.qmd
       - text: "Trademark"
         href: trademark.qmd
-    border: false
+    
     background: dark
-    foreground: white
+   
     
 format:
   html:
