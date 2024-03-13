@@ -20,8 +20,6 @@ knitr::include_graphics("img/valencia.jpg")
 ```
 
 ::: {.extra-small-text .dark-gray-text .topbr}
-Magnífica oportunidad de vivir, tranajar y hacer negocios en cualquier ciudad del territorio Shenguen.
-
 *Fotografía de la Ciudad de las Ciencias en Valencia - España **(catalogada por quinto año consecutivo como la mejor ciudad del mundo para vivir)***
 :::
 :::
@@ -48,7 +46,7 @@ knitr::include_graphics("img/ABO.jpg")
 ```
 
 ::: {.extra-small-text .dark-gray-text .topbr}
-Nuestro equipo está formado por los mejores profesionales que nos garantizan el feliz término de todos los trámites.
+***Tramitación de todo el papeleo garantizado***
 :::
 :::
 
@@ -68,7 +66,7 @@ knitr::include_graphics("img/LLEM.jpg")
 ```
 
 ::: {.extra-small-text .dark-gray-text .topbr}
-**Nosotros nos encargamos de todo**
+***Nosotros nos encargamos de todo***
 :::
 :::
 
