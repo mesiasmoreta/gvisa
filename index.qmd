@@ -8,10 +8,6 @@ title-block-banner: true
 
 Ponemos a tu alcance un modelo de negocio que te permite obtener la Golden Visa Española invirtiendo en el sector inmobiliario.
 
-**Nos encargamos de buscar las oportunidades de inversión, coordinamos la remodelación y gestionamos el alquiler de la vivienda de manera integral.**
-
-### **BENEFICIOS DE LA GOLDEN VISA ESPAÑOLA**
-
 ::: column-margin
 ```{r}
 #| echo: false
@@ -24,6 +20,11 @@ knitr::include_graphics("img/valencia.jpg")
 :::
 :::
 
+**Nos encargamos de buscar las oportunidades de inversión, coordinamos la remodelación y gestionamos el alquiler de la vivienda de manera integral.**
+
+
+### **BENEFICIOS DE LA GOLDEN VISA ESPAÑOLA**
+
 -   Posibilidad de obtener la nacionalidad española después de 10 años y **2 años en el caso de residentes hispanoamericanos**
 
 -   Permiso para vivir en España
@@ -35,6 +36,8 @@ knitr::include_graphics("img/valencia.jpg")
 -   Extensión de los derechos y beneficios a los miembros de la familia
 
 -   Uso de los servicios públicos
+
+
 
 ### **¿CÓMO TE AYUDAMOS A OBTENER LA GOLDEN VISA?**
 
@@ -55,6 +58,8 @@ knitr::include_graphics("img/ABO.jpg")
 -   Asesoramiento en la obtención de toda la unidad familiar
 
 -   Servicio integral tanto jurídico como fiscal
+
+
 
 ### **INVERSIÓN LLAVE EN MANO**
 
@@ -77,5 +82,7 @@ knitr::include_graphics("img/LLEM.jpg")
 -   Gestionamos de forma integral el alquiler de la vivienda
 
 -   Ponemos a tu alcance los medios electrónicos y digitales para controlar el correcto desenvolvimiento de las actividades de la inversión
+
+
 
 ![](img/CASA.jpg){fig-align="center" width="203"}
