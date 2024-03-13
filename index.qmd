@@ -1,12 +1,12 @@
 ---
 title: "TU PASAPORTE A LA TRANQUILIDAD"
-subtitle: "Obten el pasaporte europeo con la tranquilidad de invertir en el sector más seguro de la economía "
+subtitle: "Ponemos a tu alcance un modelo de negocio que te permite obtener la Golden Visa Española invirtiendo en el sector inmobiliario "
 title-block-banner: true
 ---
 
 ![](ICONO1.png){fig-align="center" width="300"}
 
-Ponemos a tu alcance un modelo de negocio que te permite obtener la Golden Visa Española invirtiendo en el sector inmobiliario.
+**Nos encargamos de buscar las oportunidades de inversión, coordinamos la remodelación y gestionamos el alquiler de la vivienda de manera integral.**
 
 ::: column-margin
 ```{r}
@@ -19,8 +19,6 @@ knitr::include_graphics("img/valencia.jpg")
 *Fotografía de la Ciudad de las Ciencias en Valencia - España **(catalogada por quinto año consecutivo como la mejor ciudad del mundo para vivir)***
 :::
 :::
-
-**Nos encargamos de buscar las oportunidades de inversión, coordinamos la remodelación y gestionamos el alquiler de la vivienda de manera integral.**
 
 
 ### **BENEFICIOS DE LA GOLDEN VISA ESPAÑOLA**
