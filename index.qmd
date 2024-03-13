@@ -4,25 +4,27 @@ subtitle: "Obten el pasaporte europeo con la tranquilidad de invertir en el sect
 title-block-banner: true
 ---
 
-:::{.column-margin}
-```{r}
-#| echo: false
-#| fig-alt: "Descripción"
-knitr::include_graphics("pasaporte.png")
-```
-::: {.extra-small-text .dark-gray-text .topbr}
-Teaching MEDS students how to build their own personal websites using Quarto! This was especially fun for me, since Quarto was still such a new tool when I first gave this workshop -- it meant a lot of discovery and learning on-the-fly alongside our students.
-:::
-:::
-
-![](ICONO1.png){fig-align="center" width="400"}
+![](ICONO1.png){fig-align="center" width="300"}
 
 Ponemos a tu alcance un modelo de negocio que te permite obtener la Golden Visa Española invirtiendo en el sector inmobiliario.
 
 **Nos encargamos de buscar las oportunidades de inversión, coordinamos la remodelación y gestionamos el alquiler de la vivienda de manera integral.**
 
-
 ### **BENEFICIOS DE LA GOLDEN VISA ESPAÑOLA**
+
+::: column-margin
+```{r}
+#| echo: false
+#| fig-alt: "Descripción"
+knitr::include_graphics("img/valencia.jpg")
+```
+
+::: {.extra-small-text .dark-gray-text .topbr}
+Magnífica oportunidad de vivir, tranajar y hacer negocios en cualquier ciudad del territorio Shenguen.
+
+*Fotografía de la Ciudad de las Ciencias en Valencia - España **(catalogada por quinto año consecutivo como la mejor ciudad del mundo para vivir)***
+:::
+:::
 
 -   Posibilidad de obtener la nacionalidad española después de 10 años y **2 años en el caso de residentes hispanoamericanos**
 
@@ -36,7 +38,19 @@ Ponemos a tu alcance un modelo de negocio que te permite obtener la Golden Visa 
 
 -   Uso de los servicios públicos
 
-### **¿Cómo te ayudamos a obtener la Golden Visa?**
+### **¿CÓMO TE AYUDAMOS A OBTENER LA GOLDEN VISA?**
+
+::: column-margin
+```{r}
+#| echo: false
+#| fig-alt: "Descripción"
+knitr::include_graphics("img/ABO.jpg")
+```
+
+::: {.extra-small-text .dark-gray-text .topbr}
+Nuestro equipo está formado por los mejores profesionales que nos garantizan el feliz término de todos los trámites.
+:::
+:::
 
 -   Contamos con expertos para tramitar los documentos
 
@@ -46,7 +60,17 @@ Ponemos a tu alcance un modelo de negocio que te permite obtener la Golden Visa 
 
 ### **INVERSIÓN LLAVE EN MANO**
 
+::: column-margin
+```{r}
+#| echo: false
+#| fig-alt: "Descripción"
+knitr::include_graphics("img/LLEM.jpg")
+```
+
+::: {.extra-small-text .dark-gray-text .topbr}
 **Nosotros nos encargamos de todo**
+:::
+:::
 
 -   Buscamos la oportunidad de inversión
 
@@ -55,3 +79,5 @@ Ponemos a tu alcance un modelo de negocio que te permite obtener la Golden Visa 
 -   Gestionamos de forma integral el alquiler de la vivienda
 
 -   Ponemos a tu alcance los medios electrónicos y digitales para controlar el correcto desenvolvimiento de las actividades de la inversión
+
+![](img/CASA.jpg){fig-align="center" width="203"}

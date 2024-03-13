@@ -50,12 +50,12 @@ website:
     left: "&copy; Copyright 2024, Angel Moreta"
 
     center: 
-      - text: "About"
-        href: about.qmd
-      - text: "License"
-        href: license.qmd
-      - text: "Trademark"
-        href: trademark.qmd
+      - text: "Aviso legal"
+        href: aviso_legal.qmd
+      - text: "Política de privacidad"
+        href: politica_de_privacidad.qmd
+      - text: "Política de cookies"
+        href: politica_de_cookies.qmd
     
     background: light
    
