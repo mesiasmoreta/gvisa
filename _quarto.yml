@@ -24,10 +24,10 @@ website:
     logo: ICONO1.png
     
     left:
-      - text: Golden Visa
-        href: index.qmd
       - text: beneficios
         href: projects.qmd
+      - text: Golden Visa
+        href: index.qmd
       - text: pasaporte
         href: pasaporte.qmd
       - text: inversión
