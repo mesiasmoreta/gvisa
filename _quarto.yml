@@ -62,8 +62,13 @@ website:
     
 format:
   html:
-    theme: spacelab
-    toc: false
+    page-layout: full
+    sidebar: false
+    theme: 
+      - styles.scss
+    # css: styles.css
+    mainfont: Nunito
+    toc: true
 
 editor: source
 
