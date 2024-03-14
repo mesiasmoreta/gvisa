@@ -16,7 +16,7 @@ knitr::include_graphics("img/valencia.jpg")
 ```
 
 ::: {.extra-small-text .dark-gray-text .topbr}
-*Fotografía de la Ciudad de las Ciencias en Valencia - España **(catalogada por quinto año consecutivo como la mejor ciudad del mundo para vivir)***
+*Ciudad de las Ciencias en Valencia - España **(catalogada por quinto año consecutivo como la mejor ciudad del mundo para vivir)***
 :::
 :::
 
@@ -47,7 +47,7 @@ knitr::include_graphics("img/ABO.jpg")
 ```
 
 ::: {.extra-small-text .dark-gray-text .topbr}
-***Tramitación de todo el papeleo garantizado***
+***TRAMITACIÓN GARANTIZADA DE TODO EL PAPELEO***
 :::
 :::
 
@@ -69,7 +69,7 @@ knitr::include_graphics("img/LLEM.jpg")
 ```
 
 ::: {.extra-small-text .dark-gray-text .topbr}
-***Nosotros nos encargamos de todo***
+***NOSOTROS NOS ENCARGAMOS DE TODO***
 :::
 :::
 
