@@ -6,8 +6,6 @@ title-block-banner: true
 
 **Ponemos a tu alcance un modelo de negocio que te permite obtener la Golden Visa Española invirtiendo en el sector inmobiliario**
 
-![](ICONO1.png){fig-align="center" width="300"}
-
 **Nos encargamos de buscar las oportunidades de inversión, coordinamos la remodelación y gestionamos el alquiler de la vivienda de manera integral.**
 
 ::: column-margin

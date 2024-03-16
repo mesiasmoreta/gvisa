@@ -6,8 +6,8 @@ website:
   
   title: ""
   
-  favicon: ICONO1.png #opcion para enlacs dentro de redes sociales
-  image: ICONO1.png #opcion para enlacs dentro de redes sociales
+  favicon: PASP.jpeg #opcion para enlacs dentro de redes sociales
+  image: PASP.jpeg #opcion para enlacs dentro de redes sociales
   twitter-card: true #opcion para enlacs dentro de twitter
   open-graph: true
   
@@ -21,7 +21,7 @@ website:
     anonymize-ip: true
     
   navbar:
-    logo: ICONO1.png
+    logo: PASP.jpeg
     
     left:
     

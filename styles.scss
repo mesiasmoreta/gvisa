@@ -88,7 +88,7 @@ body {
 
 // smallest text
 .extra-small-text{
-  font-size: 14px;  
+  font-size: 16px;  
 }
 
 // extra space above line of text (but not as much as <br>)
@@ -160,7 +160,7 @@ body {
 
 // resize logo (top left corner) see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
 .navbar-brand img { 
-  max-height: 100px;
+  max-height: 50px;
   width: auto;
 }
 
