@@ -61,7 +61,7 @@ body {
 .figure-caption {
   color: $gray;
   font-style: italic;
-}
+}  
 
 /* CLASS SELECTORS (self-defined) */
 
@@ -88,7 +88,8 @@ body {
 
 // smallest text
 .extra-small-text{
-  font-size: 16px;  
+  font-size: 20px; 
+  font-style: italic;
 }
 
 // extra space above line of text (but not as much as <br>)
@@ -160,7 +161,7 @@ body {
 
 // resize logo (top left corner) see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
 .navbar-brand img { 
-  max-height: 50px;
+  max-height: 40px;
   width: auto;
 }
 
